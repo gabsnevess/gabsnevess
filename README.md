@@ -2,6 +2,7 @@
 I'm Gabriel, a 20 year old full stack developer from Brazil.
 
 # 🔭 What I’m up to
+* 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 
 # 📫 How to reach me
 <!--
