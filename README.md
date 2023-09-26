@@ -10,6 +10,7 @@ I'm Gabriel, a 20 year old full-stack web developer from Brazil.
 * HTML
 * CSS
 * JavaScript
+* C++
 
 # 🔭 What I’m up to
 * 🔨 I'm currently...
