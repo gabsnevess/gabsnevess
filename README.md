@@ -9,8 +9,7 @@ I'm Gabriel, a 20 year old full-stack web developer from Brazil.
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,cpp)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabsnevess&show_icons=true&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabsnevess&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 # 🔭 What I’m up to
 * 🔨 I'm currently...
