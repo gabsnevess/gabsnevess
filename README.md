@@ -7,6 +7,7 @@ I'm Gabriel, a 20 year old full-stack web developer from Brazil.
 
 # 📒 Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,cpp)](https://skillicons.dev)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabsnevess&layout=compact)](https://github.com/USERNAME/github-readme-stats)
 
 # 🔭 What I’m up to
