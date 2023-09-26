@@ -5,7 +5,7 @@ I'm Gabriel, a 20 year old full-stack web developer from Brazil.
 * 💻 Full-Stack developer with bold ideas
 * 🎓 Studying information systems at PUC Minas, graduating December 2027
 
-# 📒 Learning
+# 📒 Languages I know
 * C#
 * HTML
 * CSS
