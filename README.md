@@ -13,6 +13,10 @@ I'm Gabriel, a 20 year old full-stack web developer from Brazil.
 
 # 🔭 What I’m up to
 * 🔨 I'm currently...
+```ruby
+// Learning C#, HTML, CSS and JS
+// Learning japanese
+```
 
 # 🎸 Hobbies
 * Play guitar, piano/keyboard and singing
