@@ -1,5 +1,6 @@
 # 👋 Hey!
 I'm Gabriel, a 20 year old full-stack web developer from Brazil.
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-neves-oliveira-quintão-687438194)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabsnevess_)
 
