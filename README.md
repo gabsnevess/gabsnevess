@@ -32,4 +32,4 @@ Learning japanese
 # 📫 How to reach me
 * E-mail: gabrieloliveiraquintao@gmail.com
 
-![70471_1608988291_4b0cdca7e52266bcddc8728f70975154](https://github.com/gabsnevess/gabsnevess/assets/64024200/d629b9d5-6bc0-44ac-b25a-813ff94ecba3)
+![70471_1608988291_4b0cdca7e52266bcddc8728f70975154|320x271,50%](https://github.com/gabsnevess/gabsnevess/assets/64024200/d629b9d5-6bc0-44ac-b25a-813ff94ecba3)
